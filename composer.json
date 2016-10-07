@@ -1,0 +1,7 @@
+{
+	"require": {
+
+		"amstaffix/pagination": "1.*"
+
+	}
+}
